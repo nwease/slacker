@@ -1,4 +1,17 @@
+* {
+  margin: 0;
+}
+
 body {
+  --slack-color: #3f0f40;
+  --sidebar-color: #400d40;
+  --sidebar-highlight-color: #1264a3;
+  --attachment-color: #1d1d1d;
+  --more-count: '+1';
+  --article-theme-primary: #4a154b;
+  --article-theme-secondary: #fff;
+
+  overflow: hidden;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
